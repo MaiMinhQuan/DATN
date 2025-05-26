@@ -1,6 +1,6 @@
 """
 network.py
-~~~~~~~~~~
+
 
 Module triển khai thuật toán Stochastic Gradient Descent (SGD) cho feedforward neural network. 
 Gradient được tính toán bằng thuật toán backpropagation.
